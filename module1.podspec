@@ -23,7 +23,7 @@ s.homepage         = 'https://github.com/supermeer/Module1'
 # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
 s.license          = { :type => 'MIT', :file => 'LICENSE' }
 s.author           = { 'supermeer' => 'supermeer@163.com' }
-s.source           = { :git => 'https://github.com/supermeer/Module1.git', :tag => "#{spec.version}" }
+s.source           = { :git => 'https://github.com/supermeer/Module1.git', :tag => "#{s.version}" }
 # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
 s.ios.deployment_target = '10'
