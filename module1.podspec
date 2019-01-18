@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-s.name             = 'Module1'
+s.name             = 'module1'
 s.version          = '0.0.1'
 s.summary          = '模块1'
 
